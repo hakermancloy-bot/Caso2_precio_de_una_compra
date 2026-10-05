@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Caso2_precio_de_una_compra": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
